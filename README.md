@@ -5,7 +5,7 @@ bNAbs-DB contains the heavy and light chain nucleotide sequences of 90 bNAbs in 
 
 The heavy chain CDR3 a.a. sequences after annotation with IMGT are reported.
 
- © 2013 ETH Zurich, Enkelejda Miho
+ © 2017 ETH Zurich, Enkelejda Miho
 
 bNAbs-DB is provided to third parties with an MIT open source license. The author reserves the right to first publish any analysis related to this database.
 
